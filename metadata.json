@@ -1,0 +1,6 @@
+{
+  "name": "CURTIVO - Luxury Curtains & Bespoke Drapery",
+  "description": "Premium, elegant, and custom-tailored curtains for modern living spaces. Curtains for a Better Tomorrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
